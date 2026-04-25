@@ -1,0 +1,22 @@
+{
+  "name": "my-cos",
+  "version": "0.1.0",
+  "description": "Personal Chief of Staff agent",
+  "type": "module",
+  "scripts": {
+    "digest": "tsx src/digest/run.ts",
+    "auth": "tsx src/gmail/auth.ts",
+    "comment": "tsx src/gdocs/run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0",
+    "open": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
