@@ -43,7 +43,7 @@ I want the digest to highlight emails where someone is waiting on me, including:
 When drafting replies on my behalf (future feature), write in this style:
 - **Tone:** [e.g. Direct and warm / Formal / Casual]
 - **Length:** [e.g. Short — I prefer 3 sentences max unless detail is needed]
-- **Sign-off:** [e.g. "Best, Lakshay" / "Thanks, L"]
+- **Sign-off:** [e.g. "Best, Alex" / "Thanks, A"]
 - **Things I never say:** [e.g. "Hope this email finds you well", "Per my last email"]
 - **Things I always do:** [e.g. Acknowledge the person's point before answering, propose a next step]
 
